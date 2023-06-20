@@ -105,7 +105,8 @@ function SignUp() {
                 </div>
                 <p className="text-white">
                   Already have account?
-                  <a href="<Login />;">
+                  <a href="">
+                    Login
                   </a>
                 </p>
               </div>
